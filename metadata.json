@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Edu AI",
+  "description": "A multilingual, AI-powered communication and management hub tailored specifically for Indian schools, bridging the gap between students, parents, teachers, and principals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
